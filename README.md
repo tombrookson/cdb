@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/tombrookson/cdb.svg?branch=master)](https://travis-ci.org/tombrookson/cdb)
+
 # cdb
 A simple database written in C.
 
