@@ -6,14 +6,14 @@ Created by following https://cstack.github.io/db_tutorial/
 ## Building from source
 To build the database from source, just run:
 ```
-gcc cbd.c
+make
 ```
 Note: You done have to use GNU compiler, it's just what I'm using during development.
 
 ## Using the database
 To start the shell, run:
 ```
-./a.out
+./cdb
 ```
 
 You will then enter the shell.
