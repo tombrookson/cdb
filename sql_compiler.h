@@ -1,6 +1,8 @@
 #ifndef _SQL_COMPILER_H_
 #define _SQL_COMPILER_H_
 
+#include <stdint.h>
+
 #include "input_buffer.h"
 
 typedef enum {
